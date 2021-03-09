@@ -2,7 +2,7 @@
 
 ## Metodo GET, POST, DELETE, PUT, PATCH
 
- * GET => Busta
+ * GET => Buscar
  * Post => Salvar
  * PUT => Alterar 
  * DELETE => Deletar
